@@ -72,3 +72,11 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Ignorar archivos de proyectos de Visual Studio
+*.vcxproj
+*.vcxproj.filters
+
+# Ignorar binarios y librerias
+*.dll
+*.exe
