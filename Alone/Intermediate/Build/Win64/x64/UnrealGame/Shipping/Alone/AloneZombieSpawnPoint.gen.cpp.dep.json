@@ -1,0 +1,17 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\unreal projects\\alone\\intermediate\\build\\win64\\unrealgame\\inc\\alone\\uht\\alonezombiespawnpoint.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\unreal projects\\alone\\intermediate\\build\\win64\\x64\\alone\\shipping\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "e:\\unreal projects\\alone\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\alone\\definitions.alone.h",
+            "e:\\unreal projects\\alone\\source\\alone\\alonezombiespawnpoint.h",
+            "e:\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\engine\\targetpoint.h",
+            "e:\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\targetpoint.generated.h",
+            "e:\\unreal projects\\alone\\intermediate\\build\\win64\\unrealgame\\inc\\alone\\uht\\alonezombiespawnpoint.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

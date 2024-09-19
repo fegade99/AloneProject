@@ -1,0 +1,40 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Alone.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Unreal Projects\Alone\Intermediate\Build\Win64\x64\AloneEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h.obj"
+"E:\Unreal Projects\Alone\Intermediate\Build\Win64\x64\UnrealEditor\Development\Alone\Alone.init.gen.cpp.obj"
+"E:\Unreal Projects\Alone\Intermediate\Build\Win64\x64\UnrealEditor\Development\Alone\AloneGameInstance.gen.cpp.obj"
+"E:\Unreal Projects\Alone\Intermediate\Build\Win64\x64\UnrealEditor\Development\Alone\AloneGameModeBase.gen.cpp.obj"
+"E:\Unreal Projects\Alone\Intermediate\Build\Win64\x64\UnrealEditor\Development\Alone\AloneGameStateBase.gen.cpp.obj"
+"E:\Unreal Projects\Alone\Intermediate\Build\Win64\x64\UnrealEditor\Development\Alone\AloneZombieSpawnPoint.gen.cpp.obj"
+"E:\Unreal Projects\Alone\Intermediate\Build\Win64\x64\UnrealEditor\Development\Alone\BulletActor.gen.cpp.obj"
+"E:\Unreal Projects\Alone\Intermediate\Build\Win64\x64\UnrealEditor\Development\Alone\PlayerAnimInstance.gen.cpp.obj"
+"E:\Unreal Projects\Alone\Intermediate\Build\Win64\x64\UnrealEditor\Development\Alone\PlayerCharacter.gen.cpp.obj"
+"E:\Unreal Projects\Alone\Intermediate\Build\Win64\x64\UnrealEditor\Development\Alone\PlayerHUD.gen.cpp.obj"
+"E:\Unreal Projects\Alone\Intermediate\Build\Win64\x64\UnrealEditor\Development\Alone\Weapon.gen.cpp.obj"
+"E:\Unreal Projects\Alone\Intermediate\Build\Win64\x64\UnrealEditor\Development\Alone\ZombieAIController.gen.cpp.obj"
+"E:\Unreal Projects\Alone\Intermediate\Build\Win64\x64\UnrealEditor\Development\Alone\ZombieAnimInstanceRemake.gen.cpp.obj"
+"E:\Unreal Projects\Alone\Intermediate\Build\Win64\x64\UnrealEditor\Development\Alone\ZombieCharacter.gen.cpp.obj"
+"E:\Unreal Projects\Alone\Intermediate\Build\Win64\x64\UnrealEditor\Development\Alone\Alone.cpp.obj"
+"E:\Unreal Projects\Alone\Intermediate\Build\Win64\x64\UnrealEditor\Development\Alone\AloneGameInstance.cpp.obj"
+"E:\Unreal Projects\Alone\Intermediate\Build\Win64\x64\UnrealEditor\Development\Alone\AloneGameModeBase.cpp.obj"
+"E:\Unreal Projects\Alone\Intermediate\Build\Win64\x64\UnrealEditor\Development\Alone\AloneGameStateBase.cpp.obj"
+"E:\Unreal Projects\Alone\Intermediate\Build\Win64\x64\UnrealEditor\Development\Alone\AloneZombieSpawnPoint.cpp.obj"
+"E:\Unreal Projects\Alone\Intermediate\Build\Win64\x64\UnrealEditor\Development\Alone\BulletActor.cpp.obj"
+"E:\Unreal Projects\Alone\Intermediate\Build\Win64\x64\UnrealEditor\Development\Alone\MainMenuHUD.cpp.obj"
+"E:\Unreal Projects\Alone\Intermediate\Build\Win64\x64\UnrealEditor\Development\Alone\MenuGameModeBase.cpp.obj"
+"E:\Unreal Projects\Alone\Intermediate\Build\Win64\x64\UnrealEditor\Development\Alone\PlayerAnimInstance.cpp.obj"
+"E:\Unreal Projects\Alone\Intermediate\Build\Win64\x64\UnrealEditor\Development\Alone\PlayerCharacter.cpp.obj"
+"E:\Unreal Projects\Alone\Intermediate\Build\Win64\x64\UnrealEditor\Development\Alone\PlayerHUD.cpp.obj"
+"E:\Unreal Projects\Alone\Intermediate\Build\Win64\x64\UnrealEditor\Development\Alone\SMainMenuWidget.cpp.obj"
+"E:\Unreal Projects\Alone\Intermediate\Build\Win64\x64\UnrealEditor\Development\Alone\Weapon.cpp.obj"
+"E:\Unreal Projects\Alone\Intermediate\Build\Win64\x64\UnrealEditor\Development\Alone\ZombieAIController.cpp.obj"
+"E:\Unreal Projects\Alone\Intermediate\Build\Win64\x64\UnrealEditor\Development\Alone\ZombieAnimInstanceRemake.cpp.obj"
+"E:\Unreal Projects\Alone\Intermediate\Build\Win64\x64\UnrealEditor\Development\Alone\ZombieCharacter.cpp.obj"
+"E:\Unreal Projects\Alone\Intermediate\Build\Win64\x64\UnrealEditor\Development\Alone\Default.rc2.res"
+/OUT:"E:\Unreal Projects\Alone\Intermediate\Build\Win64\x64\UnrealEditor\Development\Alone\UnrealEditor-Alone.lib"

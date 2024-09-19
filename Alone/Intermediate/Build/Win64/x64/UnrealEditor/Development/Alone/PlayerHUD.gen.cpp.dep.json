@@ -1,0 +1,42 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\unreal projects\\alone\\intermediate\\build\\win64\\unrealeditor\\inc\\alone\\uht\\playerhud.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\unreal projects\\alone\\intermediate\\build\\win64\\x64\\aloneeditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "e:\\unreal projects\\alone\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\alone\\definitions.alone.h",
+            "e:\\unreal projects\\alone\\source\\alone\\playerhud.h",
+            "e:\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\gameframework\\hud.h",
+            "e:\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\gameframework\\hudhitbox.h",
+            "e:\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\gameframework\\debugtextinfo.h",
+            "e:\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\debugtextinfo.generated.h",
+            "e:\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\hud.generated.h",
+            "e:\\ue_5.2\\engine\\source\\runtime\\umg\\public\\components\\progressbar.h",
+            "e:\\ue_5.2\\engine\\source\\runtime\\slate\\public\\widgets\\notifications\\sprogressbar.h",
+            "e:\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\slate\\uht\\sprogressbar.generated.h",
+            "e:\\ue_5.2\\engine\\source\\runtime\\umg\\public\\components\\widget.h",
+            "e:\\ue_5.2\\engine\\source\\runtime\\umg\\public\\fieldnotification\\fieldnotificationdeclaration.h",
+            "e:\\ue_5.2\\engine\\source\\runtime\\umg\\public\\fieldnotification\\fieldid.h",
+            "e:\\ue_5.2\\engine\\source\\runtime\\umg\\public\\fieldnotification\\fieldvariant.h",
+            "e:\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\umg\\uht\\fieldid.generated.h",
+            "e:\\ue_5.2\\engine\\source\\runtime\\umg\\public\\fieldnotification\\iclassdescriptor.h",
+            "e:\\ue_5.2\\engine\\source\\runtime\\umg\\public\\fieldnotification\\ifieldvaluechanged.h",
+            "e:\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\umg\\uht\\ifieldvaluechanged.generated.h",
+            "e:\\ue_5.2\\engine\\source\\runtime\\umg\\public\\components\\visual.h",
+            "e:\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\umg\\uht\\visual.generated.h",
+            "e:\\ue_5.2\\engine\\source\\runtime\\umg\\public\\components\\slatewrappertypes.h",
+            "e:\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\umg\\uht\\slatewrappertypes.generated.h",
+            "e:\\ue_5.2\\engine\\source\\runtime\\umg\\public\\slate\\widgettransform.h",
+            "e:\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\umg\\uht\\widgettransform.generated.h",
+            "e:\\ue_5.2\\engine\\source\\runtime\\umg\\public\\blueprint\\widgetnavigation.h",
+            "e:\\ue_5.2\\engine\\source\\runtime\\slatecore\\public\\types\\navigationmetadata.h",
+            "e:\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\umg\\uht\\widgetnavigation.generated.h",
+            "e:\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\umg\\uht\\widget.generated.h",
+            "e:\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\umg\\uht\\progressbar.generated.h",
+            "e:\\unreal projects\\alone\\intermediate\\build\\win64\\unrealeditor\\inc\\alone\\uht\\playerhud.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

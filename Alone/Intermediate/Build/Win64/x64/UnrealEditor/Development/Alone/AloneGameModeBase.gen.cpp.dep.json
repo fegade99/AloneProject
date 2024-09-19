@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\unreal projects\\alone\\intermediate\\build\\win64\\unrealeditor\\inc\\alone\\uht\\alonegamemodebase.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\unreal projects\\alone\\intermediate\\build\\win64\\x64\\aloneeditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "e:\\unreal projects\\alone\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\alone\\definitions.alone.h",
+            "e:\\unreal projects\\alone\\source\\alone\\alonegamemodebase.h",
+            "e:\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "e:\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "e:\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "e:\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "e:\\unreal projects\\alone\\intermediate\\build\\win64\\unrealeditor\\inc\\alone\\uht\\alonegamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

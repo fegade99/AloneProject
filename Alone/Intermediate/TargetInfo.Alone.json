@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Alone",
+			"Path": "C:\\Users\\fgdel\\OneDrive\\Documentos\\Unreal Projects\\Alone\\Source\\Alone.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "AloneEditor",
+			"Path": "C:\\Users\\fgdel\\OneDrive\\Documentos\\Unreal Projects\\Alone\\Source\\AloneEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

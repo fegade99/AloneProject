@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\unreal projects\\alone\\intermediate\\build\\win64\\unrealgame\\inc\\alone\\uht\\alonegameinstance.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\unreal projects\\alone\\intermediate\\build\\win64\\x64\\alone\\shipping\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "e:\\unreal projects\\alone\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\alone\\definitions.alone.h",
+            "e:\\unreal projects\\alone\\source\\alone\\alonegameinstance.h",
+            "e:\\unreal projects\\alone\\intermediate\\build\\win64\\unrealgame\\inc\\alone\\uht\\alonegameinstance.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

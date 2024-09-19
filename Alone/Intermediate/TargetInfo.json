@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Alone",
+			"Path": "E:\\Unreal Projects\\Alone\\Source\\Alone.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "AloneEditor",
+			"Path": "E:\\Unreal Projects\\Alone\\Source\\AloneEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
